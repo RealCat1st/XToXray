@@ -22,15 +22,14 @@
   </summary>
   <div style="padding: 10px; border-left: 3px solid #2b4480; margin-top: 5px;">
     <p><strong>Private Use License</strong></p>
-    <p>
-      You are allowed to:
-    </p>
+
+    <p>You are allowed to:</p>
     <ul>
       <li>Use this software privately</li>
       <li>Modify the code privately</li>
     </ul>
 
-    <p>You are <strong>not allowed</strong> to:</p>
+    <p><strong>You are not allowed to:</strong></p>
     <ul>
       <li>Republish or redistribute the code</li>
       <li>Upload it to any website or platform</li>
@@ -39,7 +38,7 @@
     </ul>
 
     <p>
-      All rights remain with the author.  
+      All rights remain with the author.<br>
       This is <strong>not</strong> an open-source license.
     </p>
   </div>
