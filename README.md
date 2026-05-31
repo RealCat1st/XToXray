@@ -22,29 +22,24 @@
   </summary>
   <div style="padding: 10px; border-left: 3px solid #2b4480; margin-top: 5px;">
 
-    <p><strong>Private Use License</strong></p>
+    **Private Use License**
 
-    <p>You are allowed to:</p>
-    <ul>
-      <li>Use this software privately</li>
-      <li>Modify the code privately</li>
-    </ul>
+    You are allowed to:
+    - Use this software privately
+    - Modify the code privately
 
-    <p><strong>You are not allowed to:</strong></p>
-    <ul>
-      <li>Republish or redistribute the code</li>
-      <li>Upload it to any website or platform</li>
-      <li>Share modified or unmodified versions</li>
-      <li>Use it commercially</li>
-    </ul>
+    You are **not** allowed to:
+    - Republish or redistribute the code
+    - Upload it to any website or platform
+    - Share modified or unmodified versions
+    - Use it commercially
 
-    <p>
-      All rights remain with the author.<br>
-      This is <strong>not</strong> an open-source license.
-    </p>
+    All rights remain with the author.  
+    This is **not** an open‑source license.
 
   </div>
 </details>
+
 
 
 <!-- WICHTIGER HINWEIS -->
