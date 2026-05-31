@@ -21,6 +21,7 @@
     License
   </summary>
   <div style="padding: 10px; border-left: 3px solid #2b4480; margin-top: 5px;">
+
     <p><strong>Private Use License</strong></p>
 
     <p>You are allowed to:</p>
@@ -41,6 +42,7 @@
       All rights remain with the author.<br>
       This is <strong>not</strong> an open-source license.
     </p>
+
   </div>
 </details>
 
