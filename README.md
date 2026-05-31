@@ -13,3 +13,62 @@
 </p>
 
 <hr />
+ Comes With [F To Freecam](https://modrinth.com/mod/ftofreecam)
+
+
+<!-- WICHTIGER HINWEIS -->
+<p><strong>Please note:</strong> The mod <em>X To Xray</em> does not allow you to use Xray on servers. To use it, plase contact the serverowner, so he/she can install the server side mod!!!.</p>
+
+<br />
+
+<!-- DROPDOWN 1: HOW TO USE -->
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer; padding: 5px;">How To Use</summary>
+  <div style="padding: 10px; border-left: 3px solid #5c1b28; margin-top: 5px;">
+    <ol>
+      <li>Download the mod and the Fabric API.</li>
+      <li>Download the Fabric Loader.</li>
+      <li>Put all downloaded files into your <code>mods</code> folder.</li>
+      <li>Start Minecraft.</li>
+    </ol>
+  </div>
+</details>
+
+<br />
+
+<!-- DROPDOWN 2: HOW TO SETUP ON SERVER -->
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer; padding: 5px;">How To Setup On Server</summary>
+  <div style="padding: 10px; border-left: 3px solid #2b4480; margin-top: 5px;">
+    <p>To set up the mod on a server, follow these steps:</p>
+    <ol>
+      <li>First, create a server using the Fabric server software.</li>
+      <li>Download the <em>X To Xray</em> mod (any version).</li>
+      <li>Install the Fabric API on the server.</li>
+      <li>Install Xray on your client (your own Minecraft) and join the server.</li>
+    </ol>
+    <p><em>Reminder: Xray will only work if this server-side mod is fully installed on the server.</em></p>
+  </div>
+</details>
+
+<br />
+
+<!-- DROPDOWN 3: IMAGES (JETZT IM MÄCHTIGEN 2x2 GRID) -->
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer; padding: 5px;">Images</summary>
+  <div style="padding: 10px; border-left: 3px solid #808080; margin-top: 5px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px;">
+      <img src="https://cdn.modrinth.com/data/HbXXzLHU/images/1f2b37c389ccbf936a5c30cb0faef6df620e8058.png" alt="Screenshot 1" style="width: 100%; border-radius: 4px;" />
+      <img src="https://cdn.modrinth.com/data/HbXXzLHU/images/a8026f15d10e3d8a0873697bcefca1083a76bbb2_350.webp" alt="Screenshot 2" style="width: 100%; border-radius: 4px;" />
+      <img src="https://cdn.modrinth.com/data/HbXXzLHU/images/f89138d85848331464a5014851fee9e7331c5cc0.png" alt="Screenshot 3" style="width: 100%; border-radius: 4px;" />
+      <img src="https://cdn.modrinth.com/data/HbXXzLHU/images/1f2b37c389ccbf936a5c30cb0faef6df620e8058.png" alt="Screenshot 4" style="width: 100%; border-radius: 4px;" />
+    </div>
+  </div>
+</details>
+
+<hr />
+
+<!-- SCHLUSSSATZ / DISCORD CORNER -->
+<p align="center">
+  If you encounter any bugs, have questions, or want to share recommendations, feel free to join our <a href="https://discord.gg/E5fkjKUgWJ" target="_blank">Discord Server</a>!
+</p>
