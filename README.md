@@ -14,6 +14,36 @@
 
 <hr />
  Comes With [F To Freecam](https://modrinth.com/mod/ftofreecam)
+ 
+<!-- DROPDOWN: LICENSE -->
+<details>
+  <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer; padding: 5px;">
+    License
+  </summary>
+  <div style="padding: 10px; border-left: 3px solid #2b4480; margin-top: 5px;">
+    <p><strong>Private Use License</strong></p>
+    <p>
+      You are allowed to:
+    </p>
+    <ul>
+      <li>Use this software privately</li>
+      <li>Modify the code privately</li>
+    </ul>
+
+    <p>You are <strong>not allowed</strong> to:</p>
+    <ul>
+      <li>Republish or redistribute the code</li>
+      <li>Upload it to any website or platform</li>
+      <li>Share modified or unmodified versions</li>
+      <li>Use it commercially</li>
+    </ul>
+
+    <p>
+      All rights remain with the author.  
+      This is <strong>not</strong> an open-source license.
+    </p>
+  </div>
+</details>
 
 
 <!-- WICHTIGER HINWEIS -->
